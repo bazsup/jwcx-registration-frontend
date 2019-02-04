@@ -3,12 +3,12 @@ import '@firebase/firestore'
 import SagaFirebase from 'redux-saga-firebase'
 
 const config = {
-  apiKey: 'AIzaSyBNxcnU0P4XyuwybfISGtYasiEZbzpgV1A',
-  authDomain: 'jwcx-196915.firebaseapp.com',
-  databaseURL: 'https://jwcx-196915.firebaseio.com',
-  projectId: 'jwcx-196915',
-  storageBucket: 'jwcx-196915.appspot.com',
-  messagingSenderId: '774371380064',
+  apiKey: 'AIzaSyBwih_FW9KhnN2598Bzv2pW9O3jTKGZfik',
+  authDomain: 'value-is-what-u-want.firebaseapp.com',
+  databaseURL: 'https://value-is-what-u-want.firebaseio.com',
+  projectId: 'value-is-what-u-want',
+  storageBucket: 'value-is-what-u-want.appspot.com',
+  messagingSenderId: '589817397541'
 }
 
 export const app = firebase.initializeApp(config)
